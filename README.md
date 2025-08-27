@@ -6,9 +6,11 @@
 
 <div align="center">
   <p style="max-width: 800px; font-size: 17px;">
-    👋 Soy <strong>Daniel Alejandro</strong>, estudiante avanzado de <strong>Ingeniería en Computación</strong> (CETI Colomos). Me especializo en desarrollo backend, análisis de datos y automatización de procesos. Me gusta construir soluciones que <strong>generen impacto real</strong> y resuelvan problemas con tecnología. 
+    👋 Soy <strong>Daniel Alejandro</strong>, estudiante avanzado de <strong>Ingeniería en Computación</strong> (CETI Colomos).  
+    Me especializo en <strong>desarrollo backend, aplicaciones móviles y análisis de datos</strong>.  
+    Me gusta construir soluciones que <strong>generen impacto real</strong> y resuelvan problemas con tecnología. 
     <br/><br/>
-    🚀 Estoy buscando proyectos freelance, colaboraciones o prácticas profesionales pagadas donde pueda demostrar lo que sé hacer y seguir creciendo como desarrollador.
+    🚀 Actualmente busco <strong>proyectos freelance, colaboraciones o prácticas profesionales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador.
   </p>
 </div>
 
@@ -22,10 +24,12 @@
 
 ### 🔙 Backend & APIs  
 <img src="https://img.shields.io/badge/Python-FF003C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=FF003C"/>
 
 ### 🖥️ Frontend  
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=FF003C"/>
@@ -36,11 +40,15 @@
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=FF003C"/>
 
+### 📱 Móvil  
+<img src="https://img.shields.io/badge/Android%20Studio-0d1117?style=for-the-badge&logo=androidstudio&logoColor=FF003C"/>
+
 ### 🗃️ Bases de Datos & Datos  
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/Power BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=FF003C"/>
-<img src="https://img.shields.io/badge/Scraping-0d1117?style=for-the-badge&logo=web&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-0d1117?style=for-the-badge&logo=python&logoColor=FF003C"/>
 
 ### ⚙️ Dev Tools  
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=FF003C"/>
