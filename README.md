@@ -7,8 +7,8 @@
 <div align="center">
   <p style="max-width: 800px; font-size: 17px;">
     👋 Soy <strong>Daniel Alejandro</strong>, estudiante avanzado de <strong>Ingeniería en Computación</strong> (CETI Colomos).  
-    Me especializo en <strong>desarrollo backend, aplicaciones móviles y análisis de datos</strong>.  
-    Me gusta construir soluciones que <strong>generen impacto real</strong> y resuelvan problemas con tecnología. 
+    Me especializo en <strong>desarrollo backend, aplicaciones móviles, SaaS y análisis de datos</strong>.  
+    También tengo conocimientos en <strong>redes y administración de sistemas</strong>.  
     <br/><br/>
     🚀 Actualmente busco <strong>proyectos freelance, colaboraciones o prácticas profesionales</strong> donde pueda aplicar mis conocimientos y seguir creciendo como desarrollador.
   </p>
@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/.NET%20(En%20progreso)-0d1117?style=for-the-badge&logo=dotnet&logoColor=FF003C"/>
 
 ### 🖥️ Frontend  
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=FF003C"/>
@@ -50,10 +51,20 @@
 <img src="https://img.shields.io/badge/Power BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/Web%20Scraping-0d1117?style=for-the-badge&logo=python&logoColor=FF003C"/>
 
-### ⚙️ Dev Tools  
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=FF003C"/>
+### ☁️ SaaS & Cloud  
+<img src="https://img.shields.io/badge/SaaS%20Apps-0d1117?style=for-the-badge&logo=cloud&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=FF003C"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FF003C"/>
+
+### 🌐 Redes & Infraestructura  
+<img src="https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=cisco&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/Protocols-0d1117?style=for-the-badge&logo=internetexplorer&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/Security-0d1117?style=for-the-badge&logo=security&logoColor=FF003C"/>
+
+### ⚙️ Dev Tools  
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=FF003C"/>
 
 </div>
 
